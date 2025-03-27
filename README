@@ -5,6 +5,11 @@ Student Data Analysis – README
 ## Introduction
 This project analyzes the factors influencing student dropout rates using exploratory data analysis (EDA), various visualization techniques, and modeling.
 
+## Download the Project
+To get all project files, clone the repository from GitHub:
+git clone https://github.com/Sunariz/Metody_Systemowe_I_Decyzyjne-Projekt_cz_1.git
+cd Metody_Systemowe_I_Decyzyjne-Projekt_cz_1
+
 ## Installation and Setup
 
 ### Create a virtual environment
